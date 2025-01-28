@@ -8,6 +8,14 @@ namespace Szamologep_beni
 {
     internal class Program
     {
+
+        static double osszeadas(double num1, double num2)
+        {
+            return num1 + num2;
+        }
+
+
+
         static void Main(string[] args)
         {
         }
