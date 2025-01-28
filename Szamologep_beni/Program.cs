@@ -14,6 +14,11 @@ namespace Szamologep_beni
             return num1 + num2;
         }
 
+        static double kivonas(double num1, double num2)
+        {
+            return num1 - num2;
+        }
+
 
 
         static void Main(string[] args)
