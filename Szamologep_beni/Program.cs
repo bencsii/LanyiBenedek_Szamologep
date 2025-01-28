@@ -31,6 +31,12 @@ namespace Szamologep_beni
         }
 
 
+        static double szazalek(double num1, double num2)
+        {
+            return (num1 / num2) * 100;
+        }
+
+
 
         static void Main(string[] args)
         {
